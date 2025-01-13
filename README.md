@@ -4,7 +4,7 @@ a console battleship game written in Java
 
 ## How to use it:
 - Clone the repository to your local machine
-  - $ `git clone https://github.com/thedtripp/battleship.git`
+  - $ `git clone https://github.com/DavidwVrba/battleship.git`
   - $ `cd battleship`
 - Compile the Java files
   - $ `javac *.java`
